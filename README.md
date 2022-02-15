@@ -1,4 +1,6 @@
-### Hi there 👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W29BQD2)
+
+![Awakened Redstone's GitHub stats](https://github-readme-stats.vercel.app/api?username=awakened-redstone&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
 <!--
 **Awakened-Redstone/Awakened-Redstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
